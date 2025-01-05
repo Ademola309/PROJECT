@@ -1,3 +1,5 @@
+// Create a length converter function
+
 // convert millimeter to meter
 function milliMeter(mm){
     return mm / 1000 

@@ -1,3 +1,5 @@
+// return the number of vowels in a string
+
 function countVowels(str) {
     let count = 0;
     for (let char of str.toLowerCase()) {
